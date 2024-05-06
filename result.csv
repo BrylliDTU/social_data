@@ -3039,6 +3039,166 @@ game_id,season,week,gameday,weekday,wind,temp,home_team,away_team,home_score,awa
 2019_11_BUF_MIA,2019,11,2019-11-17,Sunday,13.0,62.0,MIA,BUF,20.0,37.0,Hard Rock Stadium,Miami,Dolphins,64187.0,Dolphins,MIA,Dolphins,-80.238842,25.957919,BUF,False
 2019_13_PHI_MIA,2019,13,2019-12-01,Sunday,15.0,82.0,MIA,PHI,37.0,31.0,Hard Rock Stadium,Miami,Dolphins,65545.0,Dolphins,MIA,Dolphins,-80.238842,25.957919,MIA,True
 2019_16_CIN_MIA,2019,16,2019-12-22,Sunday,15.0,76.0,MIA,CIN,38.0,35.0,Hard Rock Stadium,Miami,Dolphins,60968.0,Dolphins,MIA,Dolphins,-80.238842,25.957919,MIA,True
+2000_01_SD_OAK,2000,1,2000-09-03,Sunday,10.0,64.0,OAK,LAC,9.0,6.0,Network Associates Coliseum,Oakland,Raiders,56373.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2000_03_DEN_OAK,2000,3,2000-09-17,Sunday,9.0,79.0,OAK,DEN,24.0,33.0,Network Associates Coliseum,Oakland,Raiders,62078.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2000_04_CLE_OAK,2000,4,2000-09-24,Sunday,5.0,76.0,OAK,CLE,36.0,10.0,Network Associates Coliseum,Oakland,Raiders,45702.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2000_08_SEA_OAK,2000,8,2000-10-22,Sunday,31.0,70.0,OAK,SEA,31.0,3.0,Network Associates Coliseum,Oakland,Raiders,57490.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2000_10_KC_OAK,2000,10,2000-11-05,Sunday,7.0,66.0,OAK,KC,49.0,31.0,Network Associates Coliseum,Oakland,Raiders,62428.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2000_13_ATL_OAK,2000,13,2000-11-26,Sunday,8.0,57.0,OAK,ATL,41.0,14.0,Network Associates Coliseum,Oakland,Raiders,55175.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2000_15_NYJ_OAK,2000,15,2000-12-10,Sunday,9.0,54.0,OAK,NYJ,31.0,7.0,Network Associates Coliseum,Oakland,Raiders,62632.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2000_17_CAR_OAK,2000,17,2000-12-24,Sunday,8.0,56.0,OAK,CAR,52.0,9.0,Network Associates Coliseum,Oakland,Raiders,60637.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2001_03_SEA_OAK,2001,3,2001-09-30,Sunday,7.0,81.0,OAK,SEA,38.0,14.0,Network Associates Coliseum,Oakland,Raiders,54629.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2001_04_DAL_OAK,2001,4,2001-10-07,Sunday,10.0,59.0,OAK,DAL,28.0,21.0,Network Associates Coliseum,Oakland,Raiders,61535.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2001_08_DEN_OAK,2001,8,2001-11-05,Monday,9.0,62.0,OAK,DEN,38.0,28.0,Network Associates Coliseum,Oakland,Raiders,62637.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2001_10_SD_OAK,2001,10,2001-11-18,Sunday,7.0,65.0,OAK,LAC,34.0,24.0,Network Associates Coliseum,Oakland,Raiders,61960.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2001_12_ARI_OAK,2001,12,2001-12-02,Sunday,20.0,58.0,OAK,ARI,31.0,34.0,Network Associates Coliseum,Oakland,Raiders,46601.0,Raiders,OAK,Raiders,-122.200889,37.751411,ARI,False
+2001_13_KC_OAK,2001,13,2001-12-09,Sunday,15.0,54.0,OAK,KC,28.0,26.0,Network Associates Coliseum,Oakland,Raiders,60784.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2001_15_TEN_OAK,2001,15,2001-12-22,Saturday,6.0,52.0,OAK,TEN,10.0,13.0,Network Associates Coliseum,Oakland,Raiders,61934.0,Raiders,OAK,Raiders,-122.200889,37.751411,TEN,False
+2001_17_NYJ_OAK,2001,17,2002-01-06,Sunday,3.0,55.0,OAK,NYJ,22.0,24.0,Network Associates Coliseum,Oakland,Raiders,62078.0,Raiders,OAK,Raiders,-122.200889,37.751411,NYJ,False
+2002_17_KC_OAK,2002,17,2002-12-28,Saturday,24.0,50.0,OAK,KC,24.0,0.0,Network Associates Coliseum,Oakland,Raiders,62078.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2002_01_SEA_OAK,2002,1,2002-09-08,Sunday,7.0,70.0,OAK,SEA,31.0,17.0,Network Associates Coliseum,Oakland,Raiders,53260.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2002_04_TEN_OAK,2002,4,2002-09-29,Sunday,9.0,68.0,OAK,TEN,52.0,25.0,Network Associates Coliseum,Oakland,Raiders,58719.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2002_07_SD_OAK,2002,7,2002-10-20,Sunday,9.0,62.0,OAK,LAC,21.0,27.0,Network Associates Coliseum,Oakland,Raiders,60974.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2002_09_SF_OAK,2002,9,2002-11-03,Sunday,7.0,65.0,OAK,SF,20.0,23.0,Network Associates Coliseum,Oakland,Raiders,62660.0,Raiders,OAK,Raiders,-122.200889,37.751411,SF,False
+2002_11_NE_OAK,2002,11,2002-11-17,Sunday,5.0,61.0,OAK,NE,27.0,20.0,Network Associates Coliseum,Oakland,Raiders,62552.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2002_13_NYJ_OAK,2002,13,2002-12-02,Monday,7.0,57.0,OAK,NYJ,26.0,20.0,Network Associates Coliseum,Oakland,Raiders,62257.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2002_16_DEN_OAK,2002,16,2002-12-22,Sunday,13.0,56.0,OAK,DEN,28.0,16.0,Network Associates Coliseum,Oakland,Raiders,62592.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2003_02_CIN_OAK,2003,2,2003-09-14,Sunday,13.0,80.0,OAK,CIN,23.0,20.0,Network Associates Coliseum,Oakland,Raiders,50135.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2003_04_SD_OAK,2003,4,2003-09-28,Sunday,14.0,63.0,OAK,LAC,34.0,31.0,Network Associates Coliseum,Oakland,Raiders,54078.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2003_07_KC_OAK,2003,7,2003-10-20,Monday,8.0,75.0,OAK,KC,10.0,17.0,Network Associates Coliseum,Oakland,Raiders,62391.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2003_10_NYJ_OAK,2003,10,2003-11-09,Sunday,10.0,61.0,OAK,NYJ,24.0,27.0,Network Associates Coliseum,Oakland,Raiders,51909.0,Raiders,OAK,Raiders,-122.200889,37.751411,NYJ,False
+2003_11_MIN_OAK,2003,11,2003-11-16,Sunday,6.0,55.0,OAK,MIN,28.0,18.0,Network Associates Coliseum,Oakland,Raiders,56653.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2003_13_DEN_OAK,2003,13,2003-11-30,Sunday,8.0,55.0,OAK,DEN,8.0,22.0,Network Associates Coliseum,Oakland,Raiders,57201.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2003_15_BAL_OAK,2003,15,2003-12-14,Sunday,7.0,55.0,OAK,BAL,20.0,12.0,Network Associates Coliseum,Oakland,Raiders,45398.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2003_16_GB_OAK,2003,16,2003-12-22,Monday,6.0,54.0,OAK,GB,7.0,41.0,Network Associates Coliseum,Oakland,Raiders,62298.0,Raiders,OAK,Raiders,-122.200889,37.751411,GB,False
+2004_02_BUF_OAK,2004,2,2004-09-19,Sunday,15.0,64.0,OAK,BUF,13.0,10.0,McAfee Coliseum,Oakland,Raiders,53610.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2004_03_TB_OAK,2004,3,2004-09-26,Sunday,12.0,71.0,OAK,TB,30.0,20.0,McAfee Coliseum,Oakland,Raiders,60874.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2004_06_DEN_OAK,2004,6,2004-10-17,Sunday,15.0,67.0,OAK,DEN,3.0,31.0,McAfee Coliseum,Oakland,Raiders,62507.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2004_07_NO_OAK,2004,7,2004-10-24,Sunday,10.0,62.0,OAK,NO,26.0,31.0,McAfee Coliseum,Oakland,Raiders,45337.0,Raiders,OAK,Raiders,-122.200889,37.751411,NO,False
+2004_11_SD_OAK,2004,11,2004-11-21,Sunday,18.0,61.0,OAK,LAC,17.0,23.0,McAfee Coliseum,Oakland,Raiders,46905.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2004_13_KC_OAK,2004,13,2004-12-05,Sunday,8.0,50.0,OAK,KC,27.0,34.0,McAfee Coliseum,Oakland,Raiders,51292.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2004_15_TEN_OAK,2004,15,2004-12-19,Sunday,6.0,54.0,OAK,TEN,40.0,35.0,McAfee Coliseum,Oakland,Raiders,44299.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2004_17_JAX_OAK,2004,17,2005-01-02,Sunday,9.0,48.0,OAK,JAX,6.0,13.0,McAfee Coliseum,Oakland,Raiders,44594.0,Raiders,OAK,Raiders,-122.200889,37.751411,JAX,False
+2005_17_NYG_OAK,2005,17,2005-12-31,Saturday,15.0,57.0,OAK,NYG,21.0,30.0,McAfee Coliseum,Oakland,Raiders,44594.0,Raiders,OAK,Raiders,-122.200889,37.751411,NYG,False
+2005_02_KC_OAK,2005,2,2005-09-18,Sunday,16.0,70.0,OAK,KC,17.0,23.0,McAfee Coliseum,Oakland,Raiders,62273.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2005_04_DAL_OAK,2005,4,2005-10-02,Sunday,10.0,66.0,OAK,DAL,19.0,13.0,McAfee Coliseum,Oakland,Raiders,62400.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2005_06_SD_OAK,2005,6,2005-10-16,Sunday,7.0,64.0,OAK,LAC,14.0,27.0,McAfee Coliseum,Oakland,Raiders,52666.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2005_07_BUF_OAK,2005,7,2005-10-23,Sunday,0.0,59.0,OAK,BUF,38.0,17.0,McAfee Coliseum,Oakland,Raiders,42779.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2005_10_DEN_OAK,2005,10,2005-11-13,Sunday,8.0,61.0,OAK,DEN,17.0,31.0,McAfee Coliseum,Oakland,Raiders,62779.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2005_12_MIA_OAK,2005,12,2005-11-27,Sunday,0.0,52.0,OAK,MIA,21.0,33.0,McAfee Coliseum,Oakland,Raiders,49097.0,Raiders,OAK,Raiders,-122.200889,37.751411,MIA,False
+2005_15_CLE_OAK,2005,15,2005-12-18,Sunday,18.0,56.0,OAK,CLE,7.0,9.0,McAfee Coliseum,Oakland,Raiders,41862.0,Raiders,OAK,Raiders,-122.200889,37.751411,CLE,False
+2006_01_SD_OAK,2006,1,2006-09-11,Monday,8.0,74.0,OAK,LAC,0.0,27.0,McAfee Coliseum,Oakland,Raiders,62578.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2006_04_CLE_OAK,2006,4,2006-10-01,Sunday,0.0,63.0,OAK,CLE,21.0,24.0,McAfee Coliseum,Oakland,Raiders,61426.0,Raiders,OAK,Raiders,-122.200889,37.751411,CLE,False
+2006_07_ARI_OAK,2006,7,2006-10-22,Sunday,6.0,67.0,OAK,ARI,22.0,9.0,McAfee Coliseum,Oakland,Raiders,61595.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2006_08_PIT_OAK,2006,8,2006-10-29,Sunday,10.0,62.0,OAK,PIT,20.0,13.0,McAfee Coliseum,Oakland,Raiders,62385.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2006_10_DEN_OAK,2006,10,2006-11-12,Sunday,0.0,56.0,OAK,DEN,13.0,17.0,McAfee Coliseum,Oakland,Raiders,62094.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2006_13_HOU_OAK,2006,13,2006-12-03,Sunday,8.0,56.0,OAK,HOU,14.0,23.0,McAfee Coliseum,Oakland,Raiders,46276.0,Raiders,OAK,Raiders,-122.200889,37.751411,HOU,False
+2006_15_STL_OAK,2006,15,2006-12-17,Sunday,6.0,52.0,OAK,LA,0.0,20.0,McAfee Coliseum,Oakland,Raiders,50164.0,Raiders,OAK,Raiders,-122.200889,37.751411,STL,False
+2006_16_KC_OAK,2006,16,2006-12-23,Saturday,0.0,55.0,OAK,KC,9.0,20.0,McAfee Coliseum,Oakland,Raiders,61446.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2007_01_DET_OAK,2007,1,2007-09-09,Sunday,8.0,66.0,OAK,DET,21.0,36.0,McAfee Coliseum,Oakland,Raiders,61547.0,Raiders,OAK,Raiders,-122.200889,37.751411,DET,False
+2007_03_CLE_OAK,2007,3,2007-09-23,Sunday,10.0,67.0,OAK,CLE,26.0,24.0,McAfee Coliseum,Oakland,Raiders,51075.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2007_07_KC_OAK,2007,7,2007-10-21,Sunday,10.0,68.0,OAK,KC,10.0,12.0,McAfee Coliseum,Oakland,Raiders,62240.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2007_09_HOU_OAK,2007,9,2007-11-04,Sunday,4.0,70.0,OAK,HOU,17.0,24.0,McAfee Coliseum,Oakland,Raiders,49603.0,Raiders,OAK,Raiders,-122.200889,37.751411,HOU,False
+2007_10_CHI_OAK,2007,10,2007-11-11,Sunday,14.0,62.0,OAK,CHI,6.0,17.0,McAfee Coliseum,Oakland,Raiders,62715.0,Raiders,OAK,Raiders,-122.200889,37.751411,CHI,False
+2007_13_DEN_OAK,2007,13,2007-12-02,Sunday,19.0,60.0,OAK,DEN,34.0,20.0,McAfee Coliseum,Oakland,Raiders,61990.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2007_15_IND_OAK,2007,15,2007-12-16,Sunday,8.0,55.0,OAK,IND,14.0,21.0,McAfee Coliseum,Oakland,Raiders,62000.0,Raiders,OAK,Raiders,-122.200889,37.751411,IND,False
+2007_17_SD_OAK,2007,17,2007-12-30,Sunday,7.0,54.0,OAK,LAC,17.0,30.0,McAfee Coliseum,Oakland,Raiders,61706.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2008_01_DEN_OAK,2008,1,2008-09-08,Monday,13.0,60.0,OAK,DEN,14.0,41.0,Oakland-Alameda County Coliseum,Oakland,Raiders,62762.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2008_04_SD_OAK,2008,4,2008-09-28,Sunday,11.0,78.0,OAK,LAC,18.0,28.0,Oakland-Alameda County Coliseum,Oakland,Raiders,61808.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2008_07_NYJ_OAK,2008,7,2008-10-19,Sunday,8.0,59.0,OAK,NYJ,16.0,13.0,Oakland-Alameda County Coliseum,Oakland,Raiders,61901.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2008_09_ATL_OAK,2008,9,2008-11-02,Sunday,10.0,63.0,OAK,ATL,0.0,24.0,Oakland-Alameda County Coliseum,Oakland,Raiders,61196.0,Raiders,OAK,Raiders,-122.200889,37.751411,ATL,False
+2008_10_CAR_OAK,2008,10,2008-11-09,Sunday,12.0,62.0,OAK,CAR,6.0,17.0,Oakland-Alameda County Coliseum,Oakland,Raiders,47888.0,Raiders,OAK,Raiders,-122.200889,37.751411,CAR,False
+2008_13_KC_OAK,2008,13,2008-11-30,Sunday,6.0,59.0,OAK,KC,13.0,20.0,Oakland-Alameda County Coliseum,Oakland,Raiders,61379.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2008_15_NE_OAK,2008,15,2008-12-14,Sunday,15.0,44.0,OAK,NE,26.0,49.0,Oakland-Alameda County Coliseum,Oakland,Raiders,62179.0,Raiders,OAK,Raiders,-122.200889,37.751411,NE,False
+2008_16_HOU_OAK,2008,16,2008-12-21,Sunday,6.0,48.0,OAK,HOU,27.0,16.0,Oakland-Alameda County Coliseum,Oakland,Raiders,43687.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2009_01_SD_OAK,2009,1,2009-09-14,Monday,12.0,63.0,OAK,LAC,20.0,24.0,Oakland-Alameda County Coliseum,Oakland,Raiders,61940.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2009_03_DEN_OAK,2009,3,2009-09-27,Sunday,6.0,81.0,OAK,DEN,3.0,23.0,Oakland-Alameda County Coliseum,Oakland,Raiders,45602.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2009_06_PHI_OAK,2009,6,2009-10-18,Sunday,15.0,62.0,OAK,PHI,13.0,9.0,Oakland-Alameda County Coliseum,Oakland,Raiders,49642.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2009_07_NYJ_OAK,2009,7,2009-10-25,Sunday,6.0,70.0,OAK,NYJ,0.0,38.0,Oakland-Alameda County Coliseum,Oakland,Raiders,39354.0,Raiders,OAK,Raiders,-122.200889,37.751411,NYJ,False
+2009_10_KC_OAK,2009,10,2009-11-15,Sunday,5.0,60.0,OAK,KC,10.0,16.0,Oakland-Alameda County Coliseum,Oakland,Raiders,40720.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2009_11_CIN_OAK,2009,11,2009-11-22,Sunday,8.0,54.0,OAK,CIN,20.0,17.0,Oakland-Alameda County Coliseum,Oakland,Raiders,34112.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2009_14_WAS_OAK,2009,14,2009-12-13,Sunday,9.0,52.0,OAK,WAS,13.0,34.0,Oakland-Alameda County Coliseum,Oakland,Raiders,44506.0,Raiders,OAK,Raiders,-122.200889,37.751411,WAS,False
+2009_17_BAL_OAK,2009,17,2010-01-03,Sunday,6.0,54.0,OAK,BAL,13.0,21.0,Oakland-Alameda County Coliseum,Oakland,Raiders,67045.0,Raiders,OAK,Raiders,-122.200889,37.751411,BAL,False
+2010_02_STL_OAK,2010,2,2010-09-19,Sunday,6.0,72.0,OAK,LA,16.0,14.0,Oakland-Alameda County Coliseum,Oakland,Raiders,48396.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2010_04_HOU_OAK,2010,4,2010-10-03,Sunday,15.0,71.0,OAK,HOU,24.0,31.0,Oakland-Alameda County Coliseum,Oakland,Raiders,32218.0,Raiders,OAK,Raiders,-122.200889,37.751411,HOU,False
+2010_05_SD_OAK,2010,5,2010-10-10,Sunday,0.0,67.0,OAK,LAC,35.0,27.0,Oakland-Alameda County Coliseum,Oakland,Raiders,48279.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2010_08_SEA_OAK,2010,8,2010-10-31,Sunday,5.0,66.0,OAK,SEA,33.0,3.0,Oakland-Alameda County Coliseum,Oakland,Raiders,35721.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2010_09_KC_OAK,2010,9,2010-11-07,Sunday,9.0,62.0,OAK,KC,23.0,20.0,Oakland-Alameda County Coliseum,Oakland,Raiders,61075.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2010_12_MIA_OAK,2010,12,2010-11-28,Sunday,10.0,54.0,OAK,MIA,17.0,33.0,Oakland-Alameda County Coliseum,Oakland,Raiders,48946.0,Raiders,OAK,Raiders,-122.200889,37.751411,MIA,False
+2010_15_DEN_OAK,2010,15,2010-12-19,Sunday,0.0,55.0,OAK,DEN,39.0,23.0,Oakland-Alameda County Coliseum,Oakland,Raiders,44246.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2010_16_IND_OAK,2010,16,2010-12-26,Sunday,5.0,58.0,OAK,IND,26.0,31.0,Oakland-Alameda County Coliseum,Oakland,Raiders,52567.0,Raiders,OAK,Raiders,-122.200889,37.751411,IND,False
+2011_03_NYJ_OAK,2011,3,2011-09-25,Sunday,7.0,70.0,OAK,NYJ,34.0,24.0,O.co Coliseum,Oakland,Raiders,61546.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2011_04_NE_OAK,2011,4,2011-10-02,Sunday,6.0,71.0,OAK,NE,19.0,31.0,O.co Coliseum,Oakland,Raiders,62572.0,Raiders,OAK,Raiders,-122.200889,37.751411,NE,False
+2011_06_CLE_OAK,2011,6,2011-10-16,Sunday,8.0,71.0,OAK,CLE,24.0,17.0,O.co Coliseum,Oakland,Raiders,57300.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2011_07_KC_OAK,2011,7,2011-10-23,Sunday,6.0,79.0,OAK,KC,0.0,28.0,O.co Coliseum,Oakland,Raiders,57361.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2011_09_DEN_OAK,2011,9,2011-11-06,Sunday,5.0,62.0,OAK,DEN,24.0,38.0,O.co Coliseum,Oakland,Raiders,58125.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2011_12_CHI_OAK,2011,12,2011-11-27,Sunday,6.0,59.0,OAK,CHI,25.0,20.0,O.co Coliseum,Oakland,Raiders,59244.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2011_15_DET_OAK,2011,15,2011-12-18,Sunday,1.0,50.0,OAK,DET,27.0,28.0,O.co Coliseum,Oakland,Raiders,59069.0,Raiders,OAK,Raiders,-122.200889,37.751411,DET,False
+2011_17_SD_OAK,2011,17,2012-01-01,Sunday,8.0,56.0,OAK,LAC,26.0,38.0,O.co Coliseum,Oakland,Raiders,66486.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2012_01_SD_OAK,2012,1,2012-09-10,Monday,11.0,67.0,OAK,LAC,14.0,22.0,O.co Coliseum,Oakland,Raiders,61896.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2012_03_PIT_OAK,2012,3,2012-09-23,Sunday,10.0,69.0,OAK,PIT,34.0,31.0,O.co Coliseum,Oakland,Raiders,62373.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2012_07_JAX_OAK,2012,7,2012-10-21,Sunday,11.0,62.0,OAK,JAX,26.0,23.0,O.co Coliseum,Oakland,Raiders,51634.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2012_09_TB_OAK,2012,9,2012-11-04,Sunday,7.0,71.0,OAK,TB,32.0,42.0,O.co Coliseum,Oakland,Raiders,52055.0,Raiders,OAK,Raiders,-122.200889,37.751411,TB,False
+2012_11_NO_OAK,2012,11,2012-11-18,Sunday,3.0,61.0,OAK,NO,17.0,38.0,O.co Coliseum,Oakland,Raiders,56880.0,Raiders,OAK,Raiders,-122.200889,37.751411,NO,False
+2012_13_CLE_OAK,2012,13,2012-12-02,Sunday,21.0,61.0,OAK,CLE,17.0,20.0,O.co Coliseum,Oakland,Raiders,43641.0,Raiders,OAK,Raiders,-122.200889,37.751411,CLE,False
+2012_14_DEN_OAK,2012,14,2012-12-06,Thursday,7.0,57.0,OAK,DEN,13.0,26.0,O.co Coliseum,Oakland,Raiders,53807.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2012_15_KC_OAK,2012,15,2012-12-16,Sunday,2.0,54.0,OAK,KC,15.0,0.0,O.co Coliseum,Oakland,Raiders,51446.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2013_02_JAX_OAK,2013,2,2013-09-15,Sunday,10.0,76.0,OAK,JAX,19.0,9.0,O.co Coliseum,Oakland,Raiders,49400.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2013_04_WAS_OAK,2013,4,2013-09-29,Sunday,13.0,77.0,OAK,WAS,14.0,24.0,O.co Coliseum,Oakland,Raiders,53549.0,Raiders,OAK,Raiders,-122.200889,37.751411,WAS,False
+2013_05_SD_OAK,2013,5,2013-10-06,Sunday,2.0,70.0,OAK,LAC,27.0,17.0,O.co Coliseum,Oakland,Raiders,48834.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2013_08_PIT_OAK,2013,8,2013-10-27,Sunday,17.0,56.0,OAK,PIT,21.0,18.0,O.co Coliseum,Oakland,Raiders,52950.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2013_09_PHI_OAK,2013,9,2013-11-03,Sunday,6.0,62.0,OAK,PHI,20.0,49.0,O.co Coliseum,Oakland,Raiders,51751.0,Raiders,OAK,Raiders,-122.200889,37.751411,PHI,False
+2013_12_TEN_OAK,2013,12,2013-11-24,Sunday,5.0,58.0,OAK,TEN,19.0,23.0,O.co Coliseum,Oakland,Raiders,46001.0,Raiders,OAK,Raiders,-122.200889,37.751411,TEN,False
+2013_15_KC_OAK,2013,15,2013-12-15,Sunday,6.0,64.0,OAK,KC,31.0,56.0,O.co Coliseum,Oakland,Raiders,49571.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2013_17_DEN_OAK,2013,17,2013-12-29,Sunday,8.0,70.0,OAK,DEN,14.0,34.0,O.co Coliseum,Oakland,Raiders,51500.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2014_02_HOU_OAK,2014,2,2014-09-14,Sunday,16.0,67.0,OAK,HOU,14.0,30.0,O.co Coliseum,Oakland,Raiders,54063.0,Raiders,OAK,Raiders,-122.200889,37.751411,HOU,False
+2014_04_MIA_OAK,2014,4,2014-09-28,Sunday,6.0,74.0,OAK,MIA,14.0,38.0,Wembley Stadium,Oakland,Raiders,83436.0,Raiders,OAK,Raiders,-122.200889,37.751411,MIA,False
+2014_06_SD_OAK,2014,6,2014-10-12,Sunday,5.0,77.0,OAK,LAC,28.0,31.0,O.co Coliseum,Oakland,Raiders,53329.0,Raiders,OAK,Raiders,-122.200889,37.751411,SD,False
+2014_07_ARI_OAK,2014,7,2014-10-19,Sunday,6.0,69.0,OAK,ARI,13.0,24.0,O.co Coliseum,Oakland,Raiders,52101.0,Raiders,OAK,Raiders,-122.200889,37.751411,ARI,False
+2014_10_DEN_OAK,2014,10,2014-11-09,Sunday,6.0,68.0,OAK,DEN,17.0,41.0,O.co Coliseum,Oakland,Raiders,54803.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2014_12_KC_OAK,2014,12,2014-11-20,Thursday,6.0,57.0,OAK,KC,24.0,20.0,O.co Coliseum,Oakland,Raiders,52865.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2014_14_SF_OAK,2014,14,2014-12-07,Sunday,0.0,63.0,OAK,SF,24.0,13.0,O.co Coliseum,Oakland,Raiders,55300.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2014_16_BUF_OAK,2014,16,2014-12-21,Sunday,10.0,64.0,OAK,BUF,26.0,24.0,O.co Coliseum,Oakland,Raiders,53436.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2015_01_CIN_OAK,2015,1,2015-09-13,Sunday,9.0,73.0,OAK,CIN,13.0,33.0,O.co Coliseum,Oakland,Raiders,54500.0,Raiders,OAK,Raiders,-122.200889,37.751411,CIN,False
+2015_02_BAL_OAK,2015,2,2015-09-20,Sunday,8.0,80.0,OAK,BAL,37.0,33.0,O.co Coliseum,Oakland,Raiders,53500.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2015_05_DEN_OAK,2015,5,2015-10-11,Sunday,10.0,72.0,OAK,DEN,10.0,16.0,O.co Coliseum,Oakland,Raiders,54500.0,Raiders,OAK,Raiders,-122.200889,37.751411,DEN,False
+2015_08_NYJ_OAK,2015,8,2015-11-01,Sunday,8.0,68.0,OAK,NYJ,34.0,20.0,O.co Coliseum,Oakland,Raiders,54700.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2015_10_MIN_OAK,2015,10,2015-11-15,Sunday,31.0,62.0,OAK,MIN,14.0,30.0,O.co Coliseum,Oakland,Raiders,54700.0,Raiders,OAK,Raiders,-122.200889,37.751411,MIN,False
+2015_13_KC_OAK,2015,13,2015-12-06,Sunday,3.0,57.0,OAK,KC,20.0,34.0,O.co Coliseum,Oakland,Raiders,55010.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2015_15_GB_OAK,2015,15,2015-12-20,Sunday,18.0,54.0,OAK,GB,20.0,30.0,O.co Coliseum,Oakland,Raiders,55087.0,Raiders,OAK,Raiders,-122.200889,37.751411,GB,False
+2015_16_SD_OAK,2015,16,2015-12-24,Thursday,25.0,47.0,OAK,LAC,23.0,20.0,O.co Coliseum,Oakland,Raiders,54400.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2016_02_ATL_OAK,2016,2,2016-09-18,Sunday,7.0,79.0,OAK,ATL,28.0,35.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54081.0,Raiders,OAK,Raiders,-122.200889,37.751411,ATL,False
+2016_05_SD_OAK,2016,5,2016-10-09,Sunday,7.0,75.0,OAK,LAC,34.0,31.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54275.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2016_06_KC_OAK,2016,6,2016-10-16,Sunday,6.0,61.0,OAK,KC,10.0,26.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54211.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2016_09_DEN_OAK,2016,9,2016-11-06,Sunday,6.0,65.0,OAK,DEN,30.0,20.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54957.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2016_11_HOU_OAK,2016,11,2016-11-21,Monday,6.0,63.0,OAK,HOU,27.0,20.0,Azteca Stadium,Oakland,Raiders,76473.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2016_12_CAR_OAK,2016,12,2016-11-27,Sunday,12.0,59.0,OAK,CAR,35.0,32.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54909.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2016_13_BUF_OAK,2016,13,2016-12-04,Sunday,4.0,59.0,OAK,BUF,38.0,24.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54759.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2016_16_IND_OAK,2016,16,2016-12-24,Saturday,9.0,50.0,OAK,IND,33.0,25.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54896.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2017_02_NYJ_OAK,2017,2,2017-09-17,Sunday,6.0,70.0,OAK,NYJ,45.0,20.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54729.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2017_05_BAL_OAK,2017,5,2017-10-08,Sunday,8.0,72.0,OAK,BAL,17.0,30.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54980.0,Raiders,OAK,Raiders,-122.200889,37.751411,BAL,False
+2017_06_LAC_OAK,2017,6,2017-10-15,Sunday,9.0,76.0,OAK,LAC,16.0,17.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54685.0,Raiders,OAK,Raiders,-122.200889,37.751411,LAC,False
+2017_07_KC_OAK,2017,7,2017-10-19,Thursday,1.0,62.0,OAK,KC,31.0,30.0,Oakland-Alameda County Coliseum,Oakland,Raiders,55090.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2017_11_NE_OAK,2017,11,2017-11-19,Sunday,0.0,66.0,OAK,NE,8.0,33.0,Azteca Stadium,Oakland,Raiders,77357.0,Raiders,OAK,Raiders,-122.200889,37.751411,NE,False
+2017_12_DEN_OAK,2017,12,2017-11-26,Sunday,13.0,61.0,OAK,DEN,21.0,14.0,Oakland-Alameda County Coliseum,Oakland,Raiders,53930.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2017_13_NYG_OAK,2017,13,2017-12-03,Sunday,11.0,58.0,OAK,NYG,24.0,17.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54994.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2017_15_DAL_OAK,2017,15,2017-12-17,Sunday,4.0,57.0,OAK,DAL,17.0,20.0,Oakland-Alameda County Coliseum,Oakland,Raiders,55372.0,Raiders,OAK,Raiders,-122.200889,37.751411,DAL,False
+2018_01_LA_OAK,2018,1,2018-09-10,Monday,10.0,69.0,OAK,LA,13.0,33.0,Oakland-Alameda County Coliseum,Oakland,Raiders,53857.0,Raiders,OAK,Raiders,-122.200889,37.751411,LA,False
+2018_04_CLE_OAK,2018,4,2018-09-30,Sunday,8.0,71.0,OAK,CLE,45.0,42.0,Oakland-Alameda County Coliseum,Oakland,Raiders,53387.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2018_06_SEA_OAK,2018,6,2018-10-14,Sunday,10.0,52.0,OAK,SEA,3.0,27.0,Wembley Stadium,Oakland,Raiders,84922.0,Raiders,OAK,Raiders,-122.200889,37.751411,SEA,False
+2018_08_IND_OAK,2018,8,2018-10-28,Sunday,8.0,69.0,OAK,IND,28.0,42.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54372.0,Raiders,OAK,Raiders,-122.200889,37.751411,IND,False
+2018_10_LAC_OAK,2018,10,2018-11-11,Sunday,16.0,69.0,OAK,LAC,6.0,20.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54750.0,Raiders,OAK,Raiders,-122.200889,37.751411,LAC,False
+2018_13_KC_OAK,2018,13,2018-12-02,Sunday,6.0,57.0,OAK,KC,33.0,40.0,Oakland-Alameda County Coliseum,Oakland,Raiders,54255.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2018_14_PIT_OAK,2018,14,2018-12-09,Sunday,8.0,55.0,OAK,PIT,24.0,21.0,Oakland-Alameda County Coliseum,Oakland,Raiders,53960.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2018_16_DEN_OAK,2018,16,2018-12-24,Monday,14.0,58.0,OAK,DEN,27.0,14.0,Oakland-Alameda County Coliseum,Oakland,Raiders,53850.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2019_01_DEN_OAK,2019,1,2019-09-09,Monday,15.0,68.0,OAK,DEN,24.0,16.0,Ring Central Coliseum,Oakland,Raiders,52359.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2019_02_KC_OAK,2019,2,2019-09-15,Sunday,13.0,70.0,OAK,KC,10.0,28.0,Ring Central Coliseum,Oakland,Raiders,52748.0,Raiders,OAK,Raiders,-122.200889,37.751411,KC,False
+2019_05_CHI_OAK,2019,5,2019-10-06,Sunday,15.0,59.0,OAK,CHI,24.0,21.0,Tottenham Stadium,Oakland,Raiders,60463.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2019_09_DET_OAK,2019,9,2019-11-03,Sunday,6.0,71.0,OAK,DET,31.0,24.0,Ring Central Coliseum,Oakland,Raiders,53318.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2019_10_LAC_OAK,2019,10,2019-11-07,Thursday,9.0,54.0,OAK,LAC,26.0,24.0,Ring Central Coliseum,Oakland,Raiders,51954.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2019_11_CIN_OAK,2019,11,2019-11-17,Sunday,13.0,76.0,OAK,CIN,17.0,10.0,Ring Central Coliseum,Oakland,Raiders,51921.0,Raiders,OAK,Raiders,-122.200889,37.751411,OAK,True
+2019_14_TEN_OAK,2019,14,2019-12-08,Sunday,5.0,59.0,OAK,TEN,21.0,42.0,Ring Central Coliseum,Oakland,Raiders,52760.0,Raiders,OAK,Raiders,-122.200889,37.751411,TEN,False
+2019_15_JAX_OAK,2019,15,2019-12-15,Sunday,7.0,59.0,OAK,JAX,16.0,20.0,Ring Central Coliseum,Oakland,Raiders,52788.0,Raiders,OAK,Raiders,-122.200889,37.751411,JAX,False
 2000_02_OAK_IND,2000,2,2000-09-10,Sunday,,,IND,OAK,31.0,38.0,RCA Dome,Indianapolis,Colts,56769.0,Colts,IND,Colts,-86.163806,39.760056,OAK,False
 2000_04_JAX_IND,2000,4,2000-09-25,Monday,,,IND,JAX,43.0,14.0,RCA Dome,Indianapolis,Colts,56816.0,Colts,IND,Colts,-86.163806,39.760056,IND,True
 2000_08_NE_IND,2000,8,2000-10-22,Sunday,,,IND,NE,30.0,23.0,RCA Dome,Indianapolis,Colts,56828.0,Colts,IND,Colts,-86.163806,39.760056,IND,True
@@ -4159,6 +4319,166 @@ game_id,season,week,gameday,weekday,wind,temp,home_team,away_team,home_score,awa
 2019_13_MIN_SEA,2019,13,2019-12-02,Monday,1.0,51.0,SEA,MIN,37.0,30.0,CenturyLink Field,Seattle,Seahawks,69080.0,Seahawks,SEA,Seahawks,-122.331625,47.595153,SEA,True
 2019_16_ARI_SEA,2019,16,2019-12-22,Sunday,7.0,43.0,SEA,ARI,13.0,27.0,CenturyLink Field,Seattle,Seahawks,69022.0,Seahawks,SEA,Seahawks,-122.331625,47.595153,ARI,False
 2019_17_SF_SEA,2019,17,2019-12-29,Sunday,3.0,51.0,SEA,SF,21.0,26.0,CenturyLink Field,Seattle,Seahawks,69162.0,Seahawks,SEA,Seahawks,-122.331625,47.595153,SF,False
+2000_02_CAR_SF,2000,2,2000-09-10,Sunday,6.0,63.0,SF,CAR,22.0,38.0,3Com Park,San Francisco,49ers,66879.0,49ers,SF,49ers,-122.386256,37.713486,CAR,False
+2000_05_ARI_SF,2000,5,2000-10-01,Sunday,10.0,72.0,SF,ARI,27.0,20.0,3Com Park,San Francisco,49ers,66985.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2000_06_OAK_SF,2000,6,2000-10-08,Sunday,10.0,66.0,SF,OAK,28.0,34.0,3Com Park,San Francisco,49ers,68344.0,49ers,SF,49ers,-122.386256,37.713486,OAK,False
+2000_09_STL_SF,2000,9,2000-10-29,Sunday,13.0,60.0,SF,LA,24.0,34.0,3Com Park,San Francisco,49ers,68109.0,49ers,SF,49ers,-122.386256,37.713486,STL,False
+2000_11_KC_SF,2000,11,2000-11-12,Sunday,0.0,54.0,SF,KC,21.0,7.0,3Com Park,San Francisco,49ers,68002.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2000_12_ATL_SF,2000,12,2000-11-19,Sunday,3.0,57.0,SF,ATL,16.0,6.0,3Com Park,San Francisco,49ers,67447.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2000_15_NO_SF,2000,15,2000-12-10,Sunday,13.0,55.0,SF,NO,27.0,31.0,3Com Park,San Francisco,49ers,67892.0,49ers,SF,49ers,-122.386256,37.713486,NO,False
+2000_16_CHI_SF,2000,16,2000-12-17,Sunday,6.0,58.0,SF,CHI,17.0,0.0,3Com Park,San Francisco,49ers,68306.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_01_ATL_SF,2001,1,2001-09-09,Sunday,12.0,68.0,SF,ATL,16.0,13.0,3Com Park,San Francisco,49ers,65989.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_02_STL_SF,2001,2,2001-09-23,Sunday,10.0,59.0,SF,LA,26.0,30.0,3Com Park,San Francisco,49ers,67536.0,49ers,SF,49ers,-122.386256,37.713486,STL,False
+2001_04_CAR_SF,2001,4,2001-10-07,Sunday,10.0,52.0,SF,CAR,24.0,14.0,3Com Park,San Francisco,49ers,66944.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_08_DET_SF,2001,8,2001-11-04,Sunday,5.0,64.0,SF,DET,21.0,13.0,3Com Park,San Francisco,49ers,67605.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_09_NO_SF,2001,9,2001-11-11,Sunday,14.0,68.0,SF,NO,28.0,27.0,3Com Park,San Francisco,49ers,68083.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_12_BUF_SF,2001,12,2001-12-02,Sunday,25.0,45.0,SF,BUF,35.0,0.0,3Com Park,San Francisco,49ers,67252.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_14_MIA_SF,2001,14,2001-12-16,Sunday,0.0,52.0,SF,MIA,21.0,0.0,3Com Park,San Francisco,49ers,68223.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2001_15_PHI_SF,2001,15,2001-12-22,Saturday,8.0,51.0,SF,PHI,13.0,3.0,3Com Park,San Francisco,49ers,68124.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2002_02_DEN_SF,2002,2,2002-09-15,Sunday,11.0,67.0,SF,DEN,14.0,24.0,3Com Park,San Francisco,49ers,67685.0,49ers,SF,49ers,-122.386256,37.713486,DEN,False
+2002_03_WAS_SF,2002,3,2002-09-22,Sunday,5.0,65.0,SF,WAS,20.0,10.0,3Com Park,San Francisco,49ers,67541.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2002_05_STL_SF,2002,5,2002-10-06,Sunday,5.0,72.0,SF,LA,37.0,13.0,3Com Park,San Francisco,49ers,67853.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2002_08_ARI_SF,2002,8,2002-10-27,Sunday,5.0,62.0,SF,ARI,38.0,28.0,3Com Park,San Francisco,49ers,67173.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2002_10_KC_SF,2002,10,2002-11-10,Sunday,18.0,61.0,SF,KC,17.0,13.0,3Com Park,San Francisco,49ers,67881.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2002_12_PHI_SF,2002,12,2002-11-25,Monday,8.0,64.0,SF,PHI,17.0,38.0,3Com Park,San Francisco,49ers,67919.0,49ers,SF,49ers,-122.386256,37.713486,PHI,False
+2002_13_SEA_SF,2002,13,2002-12-01,Sunday,0.0,58.0,SF,SEA,31.0,24.0,3Com Park,San Francisco,49ers,67594.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2002_15_GB_SF,2002,15,2002-12-15,Sunday,22.0,58.0,SF,GB,14.0,20.0,3Com Park,San Francisco,49ers,67947.0,49ers,SF,49ers,-122.386256,37.713486,GB,False
+2003_01_CHI_SF,2003,1,2003-09-07,Sunday,16.0,66.0,SF,CHI,49.0,7.0,3Com Park,San Francisco,49ers,67554.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2003_03_CLE_SF,2003,3,2003-09-21,Sunday,3.0,87.0,SF,CLE,12.0,13.0,3Com Park,San Francisco,49ers,67412.0,49ers,SF,49ers,-122.386256,37.713486,CLE,False
+2003_05_DET_SF,2003,5,2003-10-05,Sunday,6.0,66.0,SF,DET,24.0,17.0,3Com Park,San Francisco,49ers,67365.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2003_07_TB_SF,2003,7,2003-10-19,Sunday,7.0,65.0,SF,TB,24.0,7.0,3Com Park,San Francisco,49ers,67809.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2003_09_STL_SF,2003,9,2003-11-02,Sunday,12.0,58.0,SF,LA,30.0,10.0,3Com Park,San Francisco,49ers,67812.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2003_11_PIT_SF,2003,11,2003-11-17,Monday,14.0,57.0,SF,PIT,30.0,14.0,3Com Park,San Francisco,49ers,67877.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2003_14_ARI_SF,2003,14,2003-12-07,Sunday,15.0,58.0,SF,ARI,50.0,14.0,3Com Park,San Francisco,49ers,66975.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2003_17_SEA_SF,2003,17,2003-12-27,Saturday,5.0,49.0,SF,SEA,17.0,24.0,3Com Park,San Francisco,49ers,67840.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2004_01_ATL_SF,2004,1,2004-09-12,Sunday,15.0,67.0,SF,ATL,19.0,21.0,3Com Park,San Francisco,49ers,65584.0,49ers,SF,49ers,-122.386256,37.713486,ATL,False
+2004_04_STL_SF,2004,4,2004-10-03,Sunday,15.0,59.0,SF,LA,14.0,24.0,3Com Park,San Francisco,49ers,66696.0,49ers,SF,49ers,-122.386256,37.713486,STL,False
+2004_05_ARI_SF,2004,5,2004-10-10,Sunday,3.0,68.0,SF,ARI,31.0,28.0,3Com Park,San Francisco,49ers,62836.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2004_09_SEA_SF,2004,9,2004-11-07,Sunday,7.0,57.0,SF,SEA,27.0,42.0,3Com Park,San Francisco,49ers,64423.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2004_10_CAR_SF,2004,10,2004-11-14,Sunday,3.0,59.0,SF,CAR,27.0,37.0,3Com Park,San Francisco,49ers,63618.0,49ers,SF,49ers,-122.386256,37.713486,CAR,False
+2004_12_MIA_SF,2004,12,2004-11-28,Sunday,20.0,55.0,SF,MIA,17.0,24.0,3Com Park,San Francisco,49ers,66156.0,49ers,SF,49ers,-122.386256,37.713486,MIA,False
+2004_15_WAS_SF,2004,15,2004-12-18,Saturday,0.0,55.0,SF,WAS,16.0,26.0,3Com Park,San Francisco,49ers,65710.0,49ers,SF,49ers,-122.386256,37.713486,WAS,False
+2004_16_BUF_SF,2004,16,2004-12-26,Sunday,18.0,54.0,SF,BUF,7.0,41.0,3Com Park,San Francisco,49ers,63248.0,49ers,SF,49ers,-122.386256,37.713486,BUF,False
+2005_01_STL_SF,2005,1,2005-09-11,Sunday,17.0,65.0,SF,LA,28.0,25.0,Monster Park,San Francisco,49ers,67918.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2005_03_DAL_SF,2005,3,2005-09-25,Sunday,0.0,72.0,SF,DAL,31.0,34.0,Monster Park,San Francisco,49ers,68247.0,49ers,SF,49ers,-122.386256,37.713486,DAL,False
+2005_05_IND_SF,2005,5,2005-10-09,Sunday,3.0,64.0,SF,IND,3.0,28.0,Monster Park,San Francisco,49ers,68084.0,49ers,SF,49ers,-122.386256,37.713486,IND,False
+2005_08_TB_SF,2005,8,2005-10-30,Sunday,3.0,61.0,SF,TB,15.0,10.0,Monster Park,San Francisco,49ers,63358.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2005_09_NYG_SF,2005,9,2005-11-06,Sunday,5.0,61.0,SF,NYG,6.0,24.0,Monster Park,San Francisco,49ers,63820.0,49ers,SF,49ers,-122.386256,37.713486,NYG,False
+2005_11_SEA_SF,2005,11,2005-11-20,Sunday,0.0,63.0,SF,SEA,25.0,27.0,Monster Park,San Francisco,49ers,63590.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2005_13_ARI_SF,2005,13,2005-12-04,Sunday,3.0,54.0,SF,ARI,10.0,17.0,Monster Park,San Francisco,49ers,60439.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2005_17_HOU_SF,2005,17,2006-01-01,Sunday,28.0,56.0,SF,HOU,20.0,17.0,Monster Park,San Francisco,49ers,75555.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2006_02_STL_SF,2006,2,2006-09-17,Sunday,3.0,68.0,SF,LA,20.0,13.0,Monster Park,San Francisco,49ers,67791.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2006_03_PHI_SF,2006,3,2006-09-24,Sunday,5.0,66.0,SF,PHI,24.0,38.0,Monster Park,San Francisco,49ers,68166.0,49ers,SF,49ers,-122.386256,37.713486,PHI,False
+2006_05_OAK_SF,2006,5,2006-10-08,Sunday,3.0,65.0,SF,OAK,34.0,20.0,Monster Park,San Francisco,49ers,68368.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2006_06_SD_SF,2006,6,2006-10-15,Sunday,12.0,57.0,SF,LAC,19.0,48.0,Monster Park,San Francisco,49ers,68137.0,49ers,SF,49ers,-122.386256,37.713486,SD,False
+2006_09_MIN_SF,2006,9,2006-11-05,Sunday,7.0,62.0,SF,MIN,9.0,3.0,Monster Park,San Francisco,49ers,68088.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2006_11_SEA_SF,2006,11,2006-11-19,Sunday,5.0,59.0,SF,SEA,20.0,14.0,Monster Park,San Francisco,49ers,68367.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2006_14_GB_SF,2006,14,2006-12-10,Sunday,15.0,58.0,SF,GB,19.0,30.0,Monster Park,San Francisco,49ers,68539.0,49ers,SF,49ers,-122.386256,37.713486,GB,False
+2006_16_ARI_SF,2006,16,2006-12-24,Sunday,5.0,50.0,SF,ARI,20.0,26.0,Monster Park,San Francisco,49ers,67751.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2007_01_ARI_SF,2007,1,2007-09-10,Monday,18.0,64.0,SF,ARI,20.0,17.0,Monster Park,San Francisco,49ers,68111.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2007_04_SEA_SF,2007,4,2007-09-30,Sunday,12.0,65.0,SF,SEA,3.0,23.0,Monster Park,San Francisco,49ers,67651.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2007_05_BAL_SF,2007,5,2007-10-07,Sunday,3.0,63.0,SF,BAL,7.0,9.0,Monster Park,San Francisco,49ers,67885.0,49ers,SF,49ers,-122.386256,37.713486,BAL,False
+2007_08_NO_SF,2007,8,2007-10-28,Sunday,6.0,63.0,SF,NO,10.0,31.0,Monster Park,San Francisco,49ers,68244.0,49ers,SF,49ers,-122.386256,37.713486,NO,False
+2007_11_STL_SF,2007,11,2007-11-18,Sunday,5.0,54.0,SF,LA,9.0,13.0,Monster Park,San Francisco,49ers,68039.0,49ers,SF,49ers,-122.386256,37.713486,STL,False
+2007_14_MIN_SF,2007,14,2007-12-09,Sunday,6.0,53.0,SF,MIN,7.0,27.0,Monster Park,San Francisco,49ers,68050.0,49ers,SF,49ers,-122.386256,37.713486,MIN,False
+2007_15_CIN_SF,2007,15,2007-12-15,Saturday,0.0,52.0,SF,CIN,20.0,13.0,Monster Park,San Francisco,49ers,68053.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2007_16_TB_SF,2007,16,2007-12-23,Sunday,5.0,51.0,SF,TB,21.0,19.0,Monster Park,San Francisco,49ers,68193.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2008_01_ARI_SF,2008,1,2008-09-07,Sunday,20.0,70.0,SF,ARI,13.0,23.0,Candlestick Park,San Francisco,49ers,67186.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2008_03_DET_SF,2008,3,2008-09-21,Sunday,12.0,67.0,SF,DET,31.0,13.0,Candlestick Park,San Francisco,49ers,67249.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2008_05_NE_SF,2008,5,2008-10-05,Sunday,8.0,67.0,SF,NE,21.0,30.0,Candlestick Park,San Francisco,49ers,67650.0,49ers,SF,49ers,-122.386256,37.713486,NE,False
+2008_06_PHI_SF,2008,6,2008-10-12,Sunday,13.0,64.0,SF,PHI,26.0,40.0,Candlestick Park,San Francisco,49ers,67640.0,49ers,SF,49ers,-122.386256,37.713486,PHI,False
+2008_08_SEA_SF,2008,8,2008-10-26,Sunday,3.0,64.0,SF,SEA,13.0,34.0,Candlestick Park,San Francisco,49ers,67504.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2008_11_STL_SF,2008,11,2008-11-16,Sunday,5.0,75.0,SF,LA,35.0,16.0,Candlestick Park,San Francisco,49ers,67573.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2008_14_NYJ_SF,2008,14,2008-12-07,Sunday,0.0,52.0,SF,NYJ,24.0,14.0,Candlestick Park,San Francisco,49ers,67782.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2008_17_WAS_SF,2008,17,2008-12-28,Sunday,5.0,50.0,SF,WAS,27.0,24.0,Candlestick Park,San Francisco,49ers,67519.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2009_02_SEA_SF,2009,2,2009-09-20,Sunday,0.0,68.0,SF,SEA,23.0,10.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2009_04_STL_SF,2009,4,2009-10-04,Sunday,17.0,60.0,SF,LA,35.0,0.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2009_05_ATL_SF,2009,5,2009-10-11,Sunday,9.0,58.0,SF,ATL,10.0,45.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,ATL,False
+2009_09_TEN_SF,2009,9,2009-11-08,Sunday,5.0,63.0,SF,TEN,27.0,34.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,TEN,False
+2009_10_CHI_SF,2009,10,2009-11-12,Thursday,18.0,60.0,SF,CHI,10.0,6.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2009_12_JAX_SF,2009,12,2009-11-29,Sunday,0.0,68.0,SF,JAX,20.0,3.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2009_14_ARI_SF,2009,14,2009-12-14,Monday,0.0,53.0,SF,ARI,24.0,9.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2009_16_DET_SF,2009,16,2009-12-27,Sunday,5.0,55.0,SF,DET,20.0,6.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2010_02_NO_SF,2010,2,2010-09-20,Monday,10.0,65.0,SF,NO,22.0,25.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,NO,False
+2010_05_PHI_SF,2010,5,2010-10-10,Sunday,10.0,71.0,SF,PHI,24.0,27.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,PHI,False
+2010_06_OAK_SF,2010,6,2010-10-17,Sunday,10.0,53.0,SF,OAK,17.0,9.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2010_08_DEN_SF,2010,8,2010-10-31,Sunday,6.0,54.0,SF,DEN,24.0,16.0,Wembley Stadium,San Francisco,49ers,83941.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2010_10_STL_SF,2010,10,2010-11-14,Sunday,5.0,74.0,SF,LA,23.0,20.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2010_11_TB_SF,2010,11,2010-11-21,Sunday,25.0,54.0,SF,TB,0.0,21.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,TB,False
+2010_14_SEA_SF,2010,14,2010-12-12,Sunday,3.0,55.0,SF,SEA,40.0,21.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2010_17_ARI_SF,2010,17,2011-01-02,Sunday,3.0,49.0,SF,ARI,38.0,7.0,Candlestick Park,San Francisco,49ers,55990.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_01_SEA_SF,2011,1,2011-09-11,Sunday,15.0,68.0,SF,SEA,33.0,17.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_02_DAL_SF,2011,2,2011-09-18,Sunday,3.0,70.0,SF,DAL,24.0,27.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,DAL,False
+2011_05_TB_SF,2011,5,2011-10-09,Sunday,6.0,62.0,SF,TB,48.0,3.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_08_CLE_SF,2011,8,2011-10-30,Sunday,5.0,67.0,SF,CLE,20.0,10.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_10_NYG_SF,2011,10,2011-11-13,Sunday,10.0,58.0,SF,NYG,27.0,20.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_11_ARI_SF,2011,11,2011-11-20,Sunday,15.0,55.0,SF,ARI,23.0,7.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_13_STL_SF,2011,13,2011-12-04,Sunday,2.0,53.0,SF,LA,26.0,0.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2011_15_PIT_SF,2011,15,2011-12-19,Monday,10.0,51.0,SF,PIT,20.0,3.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2012_02_DET_SF,2012,2,2012-09-16,Sunday,15.0,62.0,SF,DET,27.0,19.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2012_05_BUF_SF,2012,5,2012-10-07,Sunday,8.0,62.0,SF,BUF,45.0,3.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2012_06_NYG_SF,2012,6,2012-10-14,Sunday,7.0,61.0,SF,NYG,3.0,26.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,NYG,False
+2012_07_SEA_SF,2012,7,2012-10-18,Thursday,15.0,80.0,SF,SEA,13.0,6.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2012_10_STL_SF,2012,10,2012-11-11,Sunday,5.0,55.0,SF,LA,24.0,24.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,STL,False
+2012_11_CHI_SF,2012,11,2012-11-19,Monday,12.0,64.0,SF,CHI,32.0,7.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2012_14_MIA_SF,2012,14,2012-12-09,Sunday,3.0,62.0,SF,MIA,27.0,13.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2012_17_ARI_SF,2012,17,2012-12-30,Sunday,5.0,50.0,SF,ARI,27.0,13.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2013_01_GB_SF,2013,1,2013-09-08,Sunday,6.0,69.0,SF,GB,34.0,28.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2013_03_IND_SF,2013,3,2013-09-22,Sunday,5.0,66.0,SF,IND,7.0,27.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,IND,False
+2013_05_HOU_SF,2013,5,2013-10-06,Sunday,9.0,76.0,SF,HOU,34.0,3.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2013_06_ARI_SF,2013,6,2013-10-13,Sunday,5.0,65.0,SF,ARI,32.0,20.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2013_10_CAR_SF,2013,10,2013-11-10,Sunday,6.0,62.0,SF,CAR,9.0,10.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,CAR,False
+2013_13_STL_SF,2013,13,2013-12-01,Sunday,6.0,59.0,SF,LA,23.0,13.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2013_14_SEA_SF,2013,14,2013-12-08,Sunday,5.0,43.0,SF,SEA,19.0,17.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2013_16_ATL_SF,2013,16,2013-12-23,Monday,0.0,60.0,SF,ATL,34.0,24.0,Candlestick Park,San Francisco,49ers,69732.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2014_02_CHI_SF,2014,2,2014-09-14,Sunday,10.0,78.0,SF,CHI,20.0,28.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,CHI,False
+2014_04_PHI_SF,2014,4,2014-09-28,Sunday,4.0,72.0,SF,PHI,26.0,21.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2014_05_KC_SF,2014,5,2014-10-05,Sunday,1.0,85.0,SF,KC,22.0,17.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2014_09_STL_SF,2014,9,2014-11-02,Sunday,8.0,61.0,SF,LA,10.0,13.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,STL,False
+2014_12_WAS_SF,2014,12,2014-11-23,Sunday,9.0,62.0,SF,WAS,17.0,13.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2014_13_SEA_SF,2014,13,2014-11-27,Thursday,0.0,68.0,SF,SEA,3.0,19.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2014_16_SD_SF,2014,16,2014-12-20,Saturday,5.0,61.0,SF,LAC,35.0,38.0,Levi's Stadium,San Francisco,49ers,70699.0,49ers,SF,49ers,-122.386256,37.713486,SD,False
+2014_17_ARI_SF,2014,17,2014-12-28,Sunday,3.0,51.0,SF,ARI,20.0,17.0,Levi's Stadium,San Francisco,49ers,70699.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2015_01_MIN_SF,2015,1,2015-09-14,Monday,5.0,70.0,SF,MIN,20.0,3.0,Levi's Stadium,San Francisco,49ers,70499.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2015_04_GB_SF,2015,4,2015-10-04,Sunday,5.0,74.0,SF,GB,3.0,17.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,GB,False
+2015_06_BAL_SF,2015,6,2015-10-18,Sunday,7.0,69.0,SF,BAL,25.0,20.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2015_07_SEA_SF,2015,7,2015-10-22,Thursday,8.0,75.0,SF,SEA,3.0,20.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2015_09_ATL_SF,2015,9,2015-11-08,Sunday,0.0,58.0,SF,ATL,17.0,16.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2015_12_ARI_SF,2015,12,2015-11-29,Sunday,4.0,54.0,SF,ARI,13.0,19.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2015_15_CIN_SF,2015,15,2015-12-20,Sunday,14.0,52.0,SF,CIN,14.0,24.0,Levi's Stadium,San Francisco,49ers,70799.0,49ers,SF,49ers,-122.386256,37.713486,CIN,False
+2015_17_STL_SF,2015,17,2016-01-03,Sunday,6.0,53.0,SF,LA,19.0,16.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2016_01_LA_SF,2016,1,2016-09-12,Monday,17.0,66.0,SF,LA,28.0,0.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2016_04_DAL_SF,2016,4,2016-10-02,Sunday,10.0,68.0,SF,DAL,17.0,24.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,DAL,False
+2016_05_ARI_SF,2016,5,2016-10-06,Thursday,16.0,75.0,SF,ARI,21.0,33.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2016_07_TB_SF,2016,7,2016-10-23,Sunday,5.0,68.0,SF,TB,17.0,34.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,TB,False
+2016_09_NO_SF,2016,9,2016-11-06,Sunday,0.0,70.0,SF,NO,23.0,41.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,NO,False
+2016_11_NE_SF,2016,11,2016-11-20,Sunday,6.0,64.0,SF,NE,17.0,30.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,NE,False
+2016_14_NYJ_SF,2016,14,2016-12-11,Sunday,8.0,54.0,SF,NYJ,17.0,23.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,NYJ,False
+2016_17_SEA_SF,2016,17,2017-01-01,Sunday,5.0,54.0,SF,SEA,23.0,25.0,Levi's Stadium,San Francisco,49ers,66125.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2017_01_CAR_SF,2017,1,2017-09-10,Sunday,8.0,87.0,SF,CAR,3.0,23.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,CAR,False
+2017_03_LA_SF,2017,3,2017-09-21,Thursday,13.0,68.0,SF,LA,39.0,41.0,Levi's Stadium,San Francisco,49ers,70178.0,49ers,SF,49ers,-122.386256,37.713486,LA,False
+2017_07_DAL_SF,2017,7,2017-10-22,Sunday,10.0,68.0,SF,DAL,10.0,40.0,Levi's Stadium,San Francisco,49ers,70133.0,49ers,SF,49ers,-122.386256,37.713486,DAL,False
+2017_09_ARI_SF,2017,9,2017-11-05,Sunday,8.0,61.0,SF,ARI,10.0,20.0,Levi's Stadium,San Francisco,49ers,70133.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2017_10_NYG_SF,2017,10,2017-11-12,Sunday,5.0,68.0,SF,NYG,31.0,21.0,Levi's Stadium,San Francisco,49ers,70133.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2017_12_SEA_SF,2017,12,2017-11-26,Sunday,12.0,66.0,SF,SEA,13.0,24.0,Levi's Stadium,San Francisco,49ers,70134.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2017_15_TEN_SF,2017,15,2017-12-17,Sunday,17.0,65.0,SF,TEN,25.0,23.0,Levi's Stadium,San Francisco,49ers,70133.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2017_16_JAX_SF,2017,16,2017-12-24,Sunday,0.0,52.0,SF,JAX,44.0,33.0,Levi's Stadium,San Francisco,49ers,70133.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2018_02_DET_SF,2018,2,2018-09-16,Sunday,12.0,73.0,SF,DET,30.0,27.0,Levi's Stadium,San Francisco,49ers,70164.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2018_05_ARI_SF,2018,5,2018-10-07,Sunday,15.0,79.0,SF,ARI,18.0,28.0,Levi's Stadium,San Francisco,49ers,68337.0,49ers,SF,49ers,-122.386256,37.713486,ARI,False
+2018_07_LA_SF,2018,7,2018-10-21,Sunday,5.0,62.0,SF,LA,10.0,39.0,Levi's Stadium,San Francisco,49ers,66597.0,49ers,SF,49ers,-122.386256,37.713486,LA,False
+2018_09_OAK_SF,2018,9,2018-11-01,Thursday,8.0,82.0,SF,OAK,34.0,3.0,Levi's Stadium,San Francisco,49ers,69592.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2018_10_NYG_SF,2018,10,2018-11-12,Monday,0.0,62.0,SF,NYG,23.0,27.0,Levi's Stadium,San Francisco,49ers,69409.0,49ers,SF,49ers,-122.386256,37.713486,NYG,False
+2018_14_DEN_SF,2018,14,2018-12-09,Sunday,3.0,54.0,SF,DEN,20.0,14.0,Levi's Stadium,San Francisco,49ers,69449.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2018_15_SEA_SF,2018,15,2018-12-16,Sunday,11.0,61.0,SF,SEA,26.0,23.0,Levi's Stadium,San Francisco,49ers,68836.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2018_16_CHI_SF,2018,16,2018-12-23,Sunday,5.0,50.0,SF,CHI,9.0,14.0,Levi's Stadium,San Francisco,49ers,70806.0,49ers,SF,49ers,-122.386256,37.713486,CHI,False
+2019_03_PIT_SF,2019,3,2019-09-22,Sunday,3.0,79.0,SF,PIT,24.0,20.0,Levi's Stadium,San Francisco,49ers,69439.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2019_05_CLE_SF,2019,5,2019-10-07,Monday,8.0,87.0,SF,CLE,31.0,3.0,Levi's Stadium,San Francisco,49ers,70585.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2019_08_CAR_SF,2019,8,2019-10-27,Sunday,19.0,66.0,SF,CAR,51.0,13.0,Levi's Stadium,San Francisco,49ers,69083.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2019_10_SEA_SF,2019,10,2019-11-11,Monday,3.0,77.0,SF,SEA,24.0,27.0,Levi's Stadium,San Francisco,49ers,71404.0,49ers,SF,49ers,-122.386256,37.713486,SEA,False
+2019_11_ARI_SF,2019,11,2019-11-17,Sunday,0.0,72.0,SF,ARI,36.0,26.0,Levi's Stadium,San Francisco,49ers,69419.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2019_12_GB_SF,2019,12,2019-11-24,Sunday,7.0,63.0,SF,GB,37.0,8.0,Levi's Stadium,San Francisco,49ers,71500.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
+2019_15_ATL_SF,2019,15,2019-12-15,Sunday,6.0,55.0,SF,ATL,22.0,29.0,Levi's Stadium,San Francisco,49ers,70910.0,49ers,SF,49ers,-122.386256,37.713486,ATL,False
+2019_16_LA_SF,2019,16,2019-12-21,Saturday,12.0,58.0,SF,LA,34.0,31.0,Levi's Stadium,San Francisco,49ers,70103.0,49ers,SF,49ers,-122.386256,37.713486,SF,True
 2000_02_DAL_ARI,2000,2,2000-09-10,Sunday,7.0,100.0,ARI,DAL,32.0,31.0,Sun Devil Stadium,Arizona,Cardinals,66009.0,Cardinals,ARI,Cardinals,-112.262608,33.5277,ARI,True
 2000_04_GB_ARI,2000,4,2000-09-24,Sunday,6.0,87.0,ARI,GB,3.0,29.0,Sun Devil Stadium,Arizona,Cardinals,71801.0,Cardinals,ARI,Cardinals,-112.262608,33.5277,GB,False
 2000_06_CLE_ARI,2000,6,2000-10-08,Sunday,15.0,87.0,ARI,CLE,29.0,21.0,Sun Devil Stadium,Arizona,Cardinals,44296.0,Cardinals,ARI,Cardinals,-112.262608,33.5277,ARI,True
